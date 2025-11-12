@@ -68,4 +68,4 @@ MIT
 
 ## 👨‍💻 作成者
 
-Gemini Ambassador Program - BuzzMeter Team
+Google Student AI Ambassador - Haruki Hiranaka
